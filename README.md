@@ -1,38 +1,14 @@
+# Zhian Kuang
+
+He received the B.S. degree in automation in 2016 from the Harbin Institute of Technology, Harbin, China, where he is currently working toward the Ph.D. degree with the Department of Control Science and Engineering.
+
+## Research Interest
+
+## Publications
+1. Sun, G., Wu, L., Kuang, Z., Ma, Z., & Liu, J. (2018). Practical tracking control of linear motor via fractional-order sliding mode. Automatica, 94, 221-235.
 
 
-
-You can use the [editor on GitHub](https://github.com/ZhianKuang/ZhianKuang/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ZhianKuang/ZhianKuang/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Links
+1. [Google Scholar Page](https://scholar.google.com/citations?user=8_gStqsAAAAJ&hl=zh-CN&oi=ao)
+2. 
+3.
