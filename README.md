@@ -1,4 +1,4 @@
-# Zhian Kuang
+# Zhian Kuang (匡治安)
 
 ## About Me
 I am a forth-year Ph.D student with the Department of Control Science and Engineering, under the supervision of [Prof. Huijun Gao](http://homepage.hit.edu.cn/gaohuijun), in Harbin Institute of Technology, Harbin, China. I am also a visiting student in [Mechanical Systems Control Lab](https://msc.berkeley.edu/), under the supervision of [Prof. Masayoshi Tomizuka](https://msc.berkeley.edu/people/tomizuka.html), in University of California, Berkeley.
