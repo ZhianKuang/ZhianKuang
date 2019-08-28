@@ -1,4 +1,7 @@
 
+![](https://github.com/ZhianKuang/ZhianKuang/blob/master/kza.jpg)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ZhianKuang/ZhianKuang/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
